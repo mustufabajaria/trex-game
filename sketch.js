@@ -81,7 +81,7 @@ function setup() {
 
 function draw() {
   
-  background(200);
+  background(180);
   //displaying score
   text("Score: "+ score, 450,50);
   text("Highest score "+localStorage["highestscore"],450,30);
